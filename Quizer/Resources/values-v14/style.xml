@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="apptheme_background">#fff5f5f5</color><style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar">
+   
+    
+    <item name="android:colorPrimary">#FFC107</item>
+    
+    <item name="android:colorPrimaryDark">#FF8F00</item>
+   
+    <item name="android:colorAccent">#FF9800</item>
+    
+
+    
+  <item name="android:windowBackground">?android:attr/colorBackground</item><item name="android:colorBackground">@color/apptheme_background</item></style>
+
+ 
+    
+
+</resources>
